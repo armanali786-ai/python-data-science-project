@@ -19,7 +19,7 @@ It focuses on analyzing revenue-related data and building a simple dashboard usi
 - Python
 - Pandas
 - NumPy
-- Matplotlib / Seaborn (if used)
+- Matplotlib 
 - Jupyter Notebook
 
 ---
